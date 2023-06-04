@@ -10,13 +10,13 @@ public class First {
 	
    public static void doSomething() {
 		
-		System.out.println("First Do Something");
+		System.out.println("Please First Do Something");
 
 	}
    
    public static void printSomething() {
 		
-		System.out.println("First Print Something");
+		System.out.println("Please First Print Something");
 
 	}
 	
