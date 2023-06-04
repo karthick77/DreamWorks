@@ -4,19 +4,19 @@ public class First {
 
 	public static void main(String[] args) {
 		
-		System.out.println("First Class");
+		System.out.println("First Class Master");
 
 	}
 	
    public static void doSomething() {
 		
-		System.out.println("First Do Something");
+		System.out.println("First Do Something then Sleep");
 
 	}
    
    public static void printSomething() {
 		
-		System.out.println("First Print Something");
+		System.out.println("First Print Something then Read");
 
 	}
 	
