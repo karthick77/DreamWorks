@@ -21,6 +21,13 @@ public class First {
 		System.out.println("First Print Something then Read");
 
 	}
+   
+   public static void readSomething() {
+		
+		
+		System.out.println("First Read Something then Write");
+
+	}
 	
 
 }
