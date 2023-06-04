@@ -13,6 +13,12 @@ public class First {
 		System.out.println("First Do Something");
 
 	}
+   
+   public static void printSomething() {
+		
+		System.out.println("First Print Something");
+
+	}
 	
 
 }
