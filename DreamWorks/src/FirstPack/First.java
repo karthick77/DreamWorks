@@ -29,5 +29,11 @@ public class First {
 
 	}
 	
+   public static void runSomething() {
+		
+		
+		System.out.println("First Run Something then get output");
+
+	}
 
 }
